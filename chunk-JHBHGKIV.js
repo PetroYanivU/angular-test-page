@@ -1,0 +1,1 @@
+import{a as n}from"./chunk-PF65BMHR.js";import{X as m,da as r,l as i,r as e}from"./chunk-GCBC3PYT.js";var c=[{path:"",component:n}],h=(()=>{let t=class t{};t.\u0275fac=function(s){return new(s||t)},t.\u0275mod=i({type:t}),t.\u0275inj=e({imports:[m,[r.forChild(c)],r]});let o=t;return o})();export{h as MapModule};

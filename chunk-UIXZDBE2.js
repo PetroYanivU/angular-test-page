@@ -1,0 +1,1 @@
+import{b as n,c as p}from"./chunk-C66QLR6R.js";import{X as m,da as r,l as i,r as e}from"./chunk-GCBC3PYT.js";var f=[{path:"",component:p}],C=(()=>{let o=class o{};o.\u0275fac=function(c){return new(c||o)},o.\u0275mod=i({type:o}),o.\u0275inj=e({imports:[m,n,[r.forChild(f)],r]});let t=o;return t})();export{C as MessagModule};
